@@ -1,4 +1,11 @@
-# Buhera Printing Press
+
+
+<h1 align="center">Buhera Printing Press</h1>
+<p align="center"><em>We pray that we are wrong</em></p>
+
+<p align="center">
+  <img src="chigure-raw.gif" alt="Logo">
+</p>
 
 This repository contains the source files for my book, managed using mdBook. The content is written in Markdown and can be compiled into various formats including HTML, PDF, and ePub.
 
