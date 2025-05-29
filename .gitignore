@@ -1,0 +1,26 @@
+# mdBook build output
+book/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node modules (if using any JavaScript tools)
+node_modules/
+
+# Rust/Cargo files (for mdbook)
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.log 
