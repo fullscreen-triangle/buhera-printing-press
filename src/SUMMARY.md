@@ -1,5 +1,9 @@
 # Summary
 
+[Cover](./chapters/cover.md)
+
+[We pray that we are wrong](./chapters/preface.md)
+
 [Introduction](./chapters/introduction.md)
 
 # Part One: Cosmic Origins and Complex Systems
@@ -26,24 +30,28 @@
 - [Chapter 14](./chapters/chapter-14.md)
 - [Chapter 15](./chapters/chapter-15.md)
 
-# Part Four: The Fundamental Limits of Speed
+# Part Four: High-Speed Systems and Athletic Optimization
 
-- [Chapter 16: Micro-scale Supersonic Phenomena in Liquids](./chapters/chapter-16.md)
-- [Chapter 17: Supersonic Marine Propulsion](./chapters/chapter-17.md)
-- [Chapter 18: Hypersonic Ground Effect Vehicle](./chapters/chapter-18.md)
-- [Chapter 19: Hypersonic Individual Re-entry System](./chapters/chapter-19.md)
-- [Chapter 20: Near Light-Speed Propulsion](./chapters/chapter-20.md)
+- [Chapter 16](./chapters/chapter-16.md)
+- [Chapter 17](./chapters/chapter-17.md)
+- [Chapter 18](./chapters/chapter-18.md)
+- [Chapter 19](./chapters/chapter-19.md)
+- [Chapter 20](./chapters/chapter-20.md)
 
 # Part Five: The Convergence - From Cosmic Origins to Berlin
 
-- [Chapter 21: The Biochemical Speed Limit - Human Sprint Performance at the Cellular Level](./chapters/chapter-21.md)
-- [Chapter 22: Beyond Linear - The Evolution of Athletic Expression](./chapters/chapter-22.md)
-- [Chapter 23: The Madness-Determinism Proof - The Logical Impossibility of Free Will](./chapters/chapter-23.md)
-- [Chapter 24: The Existence Paradox - Why Reality Can Only Exist Within a Determined System](./chapters/chapter-24.md)
-- [Chapter 25: Temporal Determinism - The Mathematical Proof That the Future Has Already Happened](./chapters/chapter-25.md)
-- [Chapter 26: The Universal Constant - Empirical Proof of Predetermined Reality](./chapters/chapter-26.md)
+- [Chapter 21](./chapters/chapter-21.md)
+- [Chapter 22](./chapters/chapter-22.md)
+- [Chapter 23](./chapters/chapter-23.md)
+- [Chapter 24](./chapters/chapter-24.md)
+- [Chapter 25](./chapters/chapter-25.md)
+- [Chapter 26](./chapters/chapter-26.md)
 
-# Appendix
+# Special Chapters
 
-- [Glossary](./chapters/glossary.md)
-- [References](./chapters/references.md) 
+- [Chapter 27 - The Fabled Experience](./chapters/chapter-27.md) *(Epistemological Framework Edition)*
+
+---
+
+[Glossary](./chapters/glossary.md)
+[References](./chapters/references.md) 
