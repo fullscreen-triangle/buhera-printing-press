@@ -358,6 +358,8 @@ This model explains several cross-cultural patterns in funeral practices:
 | Plains Indians | War deeds recounted at funeral | Minimal recounting for non-warriors | Public acknowledgment of battle experiences |
 | Ancient Rome | Public funeral processions for military leaders | Private ceremonies for others | Display of battle scars and honors |
 
+*Table: Cultural Variations in Death Proximity Recognition*
+
 The funeral serves four critical functions in the death proximity system:
 
 1. **Ceremonial Capital Transfer**: Formalizes the process of transferring accumulated death proximity capital from the deceased to descendants, explaining elaborate warrior funerals across cultures.

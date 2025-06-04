@@ -50,6 +50,8 @@ Where cyclin concentration oscillates through synthesis and degradation phases, 
 | Substrate Phosphorylation | Milliseconds | Energy transfer | Enzyme concentration, substrate availability |
 | Cell Division | Hours-Days | Cyclin concentration | Growth factors, checkpoints, nutrient availability |
 
+*Table: Biological Oscillatory Systems by Scale*
+
 ## 3. Physiological Oscillations
 
 ### 3.1 Human Development Oscillations
@@ -230,6 +232,8 @@ Where the linear term Bt captures the general trend of accelerating innovation o
 | Innovation Cycle | 40-60 years | Patent rates, new industry formation | Semiconductor → AI revolution |
 | Cultural Value Cycle | 20-30 years | Media content analysis, survey data | Individualism → Communitarianism shifts |
 
+*Table: Social and Technological Oscillation Patterns*
+
 ## 5. Cosmic Oscillations and Thermodynamics
 
 ### 5.1 The Universe as an Oscillatory System
@@ -278,6 +282,8 @@ Where each parameter oscillates through expansion-contraction cycles over cosmic
 | Maximum Amplitude | Maximum | Minimum | Heat death, information loss |
 | Contraction* | Decreasing* | Increasing* | Blueshift, structure reformation* |
 | Singularity* | Minimum* | Maximum* | New Big Bang* |
+
+*Table: Cosmic Oscillation Cycle Model*
 
 *These phases are speculative and presented to complete the conceptual framework while remaining open to revision.
 
