@@ -1,7 +1,7 @@
 [book]
 name = "So happens that in Berlin, a man gave birth to himself"
 authors = ["Kundai Farai Sachikonye"]
-description = "A complete epstemological framework on predeterminism"
+description = "A complete epistemological framework on predeterminism"
 language = "en"
 
 [build]
@@ -12,8 +12,7 @@ default-theme = "light"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/fullscreen-triangle/buhera-printing-press"
 edit-url-template = "https://github.com/fullscreen-triangle/buhera-printing-press/edit/main/{path}"
-
-[preprocessor.links]
+mathjax-support = true
 
 [output.html.search]
 enable = true
@@ -24,4 +23,6 @@ boost-title = 2
 boost-hierarchy = 1
 boost-paragraph = 1
 expand = true
-heading-split-level = 3 
+heading-split-level = 3
+
+[preprocessor.links] 
