@@ -8,11 +8,12 @@ language = "en"
 build-dir = "book"
 
 [output.html]
-default-theme = "light"
+default-theme = "navy"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/fullscreen-triangle/buhera-printing-press"
 edit-url-template = "https://github.com/fullscreen-triangle/buhera-printing-press/edit/main/{path}"
 mathjax-support = true
+additional-css = ["theme/starry-night.css"]
 
 [output.html.search]
 enable = true

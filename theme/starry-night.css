@@ -1,0 +1,203 @@
+/* Starry Night Theme - Reading against the cosmic backdrop */
+
+/* Main background with starry sky */
+body {
+    background: #000000 !important;
+    color: #ffffff !important;
+    position: relative;
+}
+
+/* Create starry background */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: 
+        radial-gradient(2px 2px at 20px 30px, #fff, transparent),
+        radial-gradient(2px 2px at 40px 70px, rgba(255,255,255,0.8), transparent),
+        radial-gradient(1px 1px at 90px 40px, #fff, transparent),
+        radial-gradient(1px 1px at 130px 80px, rgba(255,255,255,0.6), transparent),
+        radial-gradient(2px 2px at 160px 30px, #fff, transparent),
+        radial-gradient(1px 1px at 200px 90px, rgba(255,255,255,0.8), transparent),
+        radial-gradient(1px 1px at 240px 50px, #fff, transparent),
+        radial-gradient(2px 2px at 280px 120px, rgba(255,255,255,0.7), transparent),
+        radial-gradient(1px 1px at 320px 20px, #fff, transparent),
+        radial-gradient(1px 1px at 360px 80px, rgba(255,255,255,0.6), transparent),
+        radial-gradient(2px 2px at 400px 60px, #fff, transparent),
+        radial-gradient(1px 1px at 440px 100px, rgba(255,255,255,0.8), transparent),
+        radial-gradient(1px 1px at 480px 30px, #fff, transparent),
+        radial-gradient(2px 2px at 520px 90px, rgba(255,255,255,0.7), transparent),
+        radial-gradient(1px 1px at 560px 40px, #fff, transparent),
+        linear-gradient(to bottom, #000000 0%, #0a0a2e 50%, #000000 100%);
+    background-repeat: repeat;
+    background-size: 600px 400px;
+    z-index: -2;
+    pointer-events: none;
+    animation: twinkle 20s ease-in-out infinite alternate;
+}
+
+@keyframes twinkle {
+    0% { opacity: 0.8; }
+    50% { opacity: 1; }
+    100% { opacity: 0.9; }
+}
+
+/* Main content area */
+.page-wrapper {
+    background: rgba(0, 0, 0, 0.8) !important;
+}
+
+.content {
+    background: rgba(0, 0, 0, 0.85) !important;
+    color: #ffffff !important;
+    padding: 2rem !important;
+    border-radius: 8px;
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.1);
+}
+
+/* Sidebar */
+.sidebar {
+    background: rgba(0, 0, 20, 0.95) !important;
+    border-right: 1px solid rgba(255, 255, 255, 0.2) !important;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+}
+
+.sidebar .chapter-item {
+    color: #ffffff !important;
+}
+
+.sidebar .chapter-item:hover {
+    background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.sidebar .chapter-item.active {
+    background: rgba(100, 149, 237, 0.3) !important;
+    border-left: 3px solid #6495ed;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+/* Links */
+a {
+    color: #87ceeb !important;
+    text-shadow: 0 0 5px rgba(135, 206, 235, 0.5);
+}
+
+a:hover {
+    color: #98fb98 !important;
+    text-shadow: 0 0 8px rgba(152, 251, 152, 0.7);
+}
+
+/* Code blocks */
+pre {
+    background: rgba(25, 25, 112, 0.3) !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    color: #ffffff !important;
+}
+
+code {
+    background: rgba(25, 25, 112, 0.3) !important;
+    color: #87ceeb !important;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Blockquotes */
+blockquote {
+    background: rgba(25, 25, 112, 0.2) !important;
+    border-left: 4px solid #6495ed !important;
+    color: #ffffff !important;
+}
+
+/* Tables */
+table {
+    background: rgba(0, 0, 0, 0.6) !important;
+    color: #ffffff !important;
+}
+
+table th {
+    background: rgba(25, 25, 112, 0.5) !important;
+    color: #ffffff !important;
+}
+
+table td {
+    border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Navigation buttons */
+.nav-chapters {
+    color: #ffffff !important;
+}
+
+.nav-chapters:hover {
+    color: #87ceeb !important;
+}
+
+/* Search */
+#searchbar {
+    background: rgba(0, 0, 0, 0.7) !important;
+    color: #ffffff !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+/* Menu bar */
+.menu-bar {
+    background: rgba(0, 0, 20, 0.95) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+.menu-bar .icon-button {
+    color: #ffffff !important;
+}
+
+/* Chapter title */
+.chapter h1 {
+    background: linear-gradient(45deg, #ffffff, #87ceeb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 2.5em;
+    margin-bottom: 1em;
+}
+
+/* Special styling for mathematical equations */
+.MathJax {
+    color: #87ceeb !important;
+}
+
+/* Enhance the cover page */
+.content div[align="center"] h1 {
+    background: linear-gradient(45deg, #ffffff, #ffd700, #87ceeb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
+    animation: glow 3s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+    from { filter: brightness(1); }
+    to { filter: brightness(1.2); }
+}
+
+/* Preface special styling */
+.content h1:contains("We pray that we are wrong") {
+    color: #ff6b6b !important;
+    text-shadow: 0 0 15px rgba(255, 107, 107, 0.6);
+}
+
+/* Ensure images display properly */
+img {
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+} 
