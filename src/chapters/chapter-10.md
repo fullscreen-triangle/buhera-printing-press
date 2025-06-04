@@ -10,15 +10,13 @@ morphological adaptations, creating an evolutionary commitment path.
 
 ## Key Examples
 
-::: {#tab:bima-examples}
-  Species    Behavior                     Forced Adaptation
-  ---------- ---------------------------- ---------------------------------------------------
-  Gorillas   Constant physical activity   Muscle hypertrophy without genetic predisposition
-  Humans     Ground sleeping              S-curve spine straightening
-  Humans     Bipedalism                   Inadequate knee structure adaptation
+| Species | Behavior | Forced Adaptation |
+|---------|----------|-------------------|
+| Gorillas | Constant physical activity | Muscle hypertrophy without genetic predisposition |
+| Humans | Ground sleeping | S-curve spine straightening |
+| Humans | Bipedalism | Inadequate knee structure adaptation |
 
-  : Behavioral-Induced Morphological Adaptations
-:::
+*Table: Behavioral-Induced Morphological Adaptations*
 
 ## Evidence in Human Evolution
 
@@ -121,16 +119,14 @@ evolutionary adaptation:
 
 ### Neurological Evidence
 
-::: {#tab:sleep-comparison}
-  Species         REM %   Muscle Tension   Sleep Efficiency
-  --------------- ------- ---------------- ------------------
-  Humans          25%     0%               90-95%
-  Chimps          15%     15-20%           70-75%
-  Baboons         12%     25-30%           60-65%
-  Other Mammals   8-10%   30-40%           50-60%
+| Species | REM % | Muscle Tension | Sleep Efficiency |
+|---------|-------|----------------|------------------|
+| Humans | 25% | 0% | 90-95% |
+| Chimps | 15% | 15-20% | 70-75% |
+| Baboons | 12% | 25-30% | 60-65% |
+| Other Mammals | 8-10% | 30-40% | 50-60% |
 
-  : Sleep Quality Comparisons
-:::
+*Table: Sleep Quality Comparisons*
 
 ### Spinal Alignment and Energy Conservation
 

@@ -87,15 +87,13 @@ fireplace, we see in these evolutionary leaps the signature of a species
 that had transcended purely practical relationships with its
 environment.
 
-::: {#tab:brain-size}
-  Species         Time Period     Brain Volume (cc)
-  ------------ ----------------- -------------------
-  H. habilis      2.3-1.5 MYA          550-687
-  H. erectus     1.9-0.11 MYA         850-1100
-  H. sapiens    300 KYA-present       1200-1400
+| Species | Time Period | Brain Volume (cc) |
+|---------|-------------|-------------------|
+| H. habilis | 2.3-1.5 MYA | 550-687 |
+| H. erectus | 1.9-0.11 MYA | 850-1100 |
+| H. sapiens | 300 KYA-present | 1200-1400 |
 
-  : Brain Size Evolution in Hominids
-:::
+*Table: Brain Size Evolution in Hominids*
 
 ## Theoretical Gap
 
@@ -197,18 +195,16 @@ has transcended purely instinctive movement patterns.
 The distinction between human and primate tool use represents a quantum
 leap rather than incremental progress:
 
-::: {#tab:tool-use}
-  Aspect         Primate Tool Use   Human Tool Use
-  -------------- ------------------ ----------------------
-  Selection      Opportunistic      Strategic
-  Modification   Minimal/None       Extensive
-  Storage        None               Long-term
-  Planning       Immediate use      Future application
-  Complexity     Single-step        Multi-step processes
-  Teaching       Limited/None       Systematic
+| Aspect | Primate Tool Use | Human Tool Use |
+|--------|------------------|----------------|
+| Selection | Opportunistic | Strategic |
+| Modification | Minimal/None | Extensive |
+| Storage | None | Long-term |
+| Planning | Immediate use | Future application |
+| Complexity | Single-step | Multi-step processes |
+| Teaching | Limited/None | Systematic |
 
-  : Comparative Tool Use Analysis
-:::
+*Table: Comparative Tool Use Analysis*
 
 ## Needle Technology Evolution
 
@@ -273,17 +269,15 @@ development:
 Archaeological evidence suggests concurrent development of cognitive and
 behavioral adaptations:
 
-::: {#tab:cognitive-dev}
-  Time Period (BP)   Development       Evidence
-  ------------------ ----------------- ------------------------
-  500,000            Fire control      Hearth sites
-  400,000            Food processing   Burnt bone assemblages
-  300,000            Social cooking    Communal sites
-  200,000            Complex hunting   Specialized tools
-  100,000            Symbol use        Ochre processing
+| Time Period (BP) | Development | Evidence |
+|------------------|-------------|----------|
+| 500,000 | Fire control | Hearth sites |
+| 400,000 | Food processing | Burnt bone assemblages |
+| 300,000 | Social cooking | Communal sites |
+| 200,000 | Complex hunting | Specialized tools |
+| 100,000 | Symbol use | Ochre processing |
 
-  : Timeline of Cognitive-Behavioral Developments
-:::
+*Table: Timeline of Cognitive-Behavioral Developments*
 
 ## Persistence Hunting Capabilities
 
@@ -334,17 +328,15 @@ suggests the presence of a unique driving force in human evolution.
 
 The traditional savannah hypothesis fails on multiple levels:
 
-::: {#tab:savannah-responses}
-  Species          Habitat Change Response    Height Change
-  ---------------- -------------------------- ----------------------
-  Meerkats         Sentinel behavior          No increase
-  Mongoose         Occasional bipedalism      No increase
-  Baboons          Ground adaptation          No increase
-  Vervet monkeys   Mixed terrain adaptation   No increase
-  Humans           Obligate bipedalism        Significant increase
+| Species | Habitat Change Response | Height Change |
+|---------|-------------------------|---------------|
+| Meerkats | Sentinel behavior | No increase |
+| Mongoose | Occasional bipedalism | No increase |
+| Baboons | Ground adaptation | No increase |
+| Vervet monkeys | Mixed terrain adaptation | No increase |
+| Humans | Obligate bipedalism | Significant increase |
 
-  : Species Responses to Savannah Environment
-:::
+*Table: Species Responses to Savannah Environment*
 
 ### The Visibility Theory Refutation
 
@@ -374,18 +366,16 @@ The predator-spotting hypothesis is contradicted by several factors:
 
 Human skin presents significant evolutionary disadvantages:
 
-::: {#tab:skin-protection}
-  Feature               Human Skin   Primate Skin with Fur
-  --------------------- ------------ -----------------------
-  UV Protection         Minimal      High
-  Scratch Resistance    Low          High
-  Impact Protection     Minimal      Moderate
-  Temperature Buffer    None         15-20°C range
-  Moisture Retention    Poor         Excellent
-  Parasite Protection   None         Significant
+| Feature | Human Skin | Primate Skin with Fur |
+|---------|------------|------------------------|
+| UV Protection | Minimal | High |
+| Scratch Resistance | Low | High |
+| Impact Protection | Minimal | Moderate |
+| Temperature Buffer | None | 15-20°C range |
+| Moisture Retention | Poor | Excellent |
+| Parasite Protection | None | Significant |
 
-  : Comparative Skin Protection Analysis
-:::
+*Table: Comparative Skin Protection Analysis*
 
 ### Primate Thermoregulation Efficiency
 
@@ -439,17 +429,15 @@ The tool-carrying explanation for bipedalism fails to account for:
 
 The shift to bipedalism introduced numerous disadvantages:
 
-::: {#tab:bipedal-costs}
-  Anatomical Change      Negative Impact
-  ---------------------- --------------------------------
-  Narrowed birth canal   Increased childbirth mortality
-  Compressed vertebrae   Chronic back problems
-  Reduced stability      Higher fall risk
-  Ankle/knee stress      Joint deterioration
-  Reduced speed          Decreased escape capability
+| Anatomical Change | Negative Impact |
+|-------------------|-----------------|
+| Narrowed birth canal | Increased childbirth mortality |
+| Compressed vertebrae | Chronic back problems |
+| Reduced stability | Higher fall risk |
+| Ankle/knee stress | Joint deterioration |
+| Reduced speed | Decreased escape capability |
 
-  : Bipedal Transition Costs
-:::
+*Table: Bipedal Transition Costs*
 
 ## Early Bipedal Gait Biomechanics
 
@@ -548,16 +536,14 @@ The increase in human height lacks evolutionary precedent:
 
 Bipedalism's energy requirements challenge gradual adoption:
 
-::: {#tab:energy-efficiency}
-  Movement Type           Energy Cost (kcal/km)   Relative Efficiency
-  ----------------------- ----------------------- ---------------------
-  Quadrupedal walking     0.17                    100%
-  Early bipedal walking   0.31                    55%
-  Modern human walking    0.21                    81%
-  Knuckle walking         0.19                    89%
+| Movement Type | Energy Cost (kcal/km) | Relative Efficiency |
+|---------------|------------------------|---------------------|
+| Quadrupedal walking | 0.17 | 100% |
+| Early bipedal walking | 0.31 | 55% |
+| Modern human walking | 0.21 | 81% |
+| Knuckle walking | 0.19 | 89% |
 
-  : Locomotion Energy Efficiency
-:::
+*Table: Locomotion Energy Efficiency*
 
 These comprehensive analyses demonstrate that traditional explanations
 for human bipedalism fail to account for: 1. The lack of similar

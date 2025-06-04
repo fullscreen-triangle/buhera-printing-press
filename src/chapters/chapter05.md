@@ -184,6 +184,8 @@ Where:
 | Specific Voyager encoding schemes | Institutional knowledge | 60-90 years | 300-450 years |
 | Integration of all components | Requires specialist knowledge | 50-70 years | 250-350 years |
 
+*Table: Technology Readability Decay Timeline*
+
 # Linguistic and Symbolic Drift
 
 ## Natural Language Evolution Rate
@@ -229,6 +231,8 @@ Where:
 | Contextual understanding | 80-90% | 40-60% | 15-30% | <5% |
 | Combined survival probability | 28-53% | 2-8% | <1% | ~0% |
 
+*Table: Documentation Survival Analysis*
+
 ## Institutional Continuity Requirements
 
 Full decoding capability requires institutional continuity in:
@@ -264,6 +268,8 @@ Major civilizational disruptions would accelerate knowledge loss:
 | Full-scale nuclear war | 5-15% | <50 years |
 | Artificial intelligence disruption | Unknown | Unknown |
 
+*Table: Catastrophic Risk Factors and Knowledge Loss*
+
 # Combined Temporal Analysis
 
 ## Multi-Factor Readability Decay Model
@@ -284,6 +290,8 @@ Where each $R$ component represents the retention factor for technological, ling
 | Low readability (25-50%) | Major content sections unrecoverable | 300-500 years |
 | Minimal readability (5-25%) | Only basic elements recoverable | 500-1,000 years |
 | Effective extinction (<5%) | Insufficient knowledge for meaningful recovery | 1,000-2,000 years |
+
+*Table: Critical Readability Thresholds*
 
 # The Cosmic Irony of Interstellar Communication
 
@@ -307,6 +315,8 @@ The Voyager records were designed to be "self-decoding" for extraterrestrial rec
 | Voyager's closest stellar approach | ~40,000 years | 20-40× |
 | Physical record survival | ~billions of years | >1,000,000× |
 | Probability of extraterrestrial discovery | Infinitesimal | N/A |
+
+*Table: Temporal Mismatch in Interstellar Communication*
 
 # Conclusion: The Ephemeral Nature of Human Knowledge
 

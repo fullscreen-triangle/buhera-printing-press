@@ -63,6 +63,8 @@ The death proximity mechanism explains the universal emergence of warrior leader
 | Iron Age (1,200-500 BCE) | Chiefdoms, aristocracy | Professional armies | Heroic death narratives |
 | Classical Period (500 BCE-500 CE) | Kingship, nobility | State warfare | Leadership from battlefield |
 
+*Table: Historical Evidence of Death Proximity and Leadership*
+
 The progression of leadership complexity correlates with increasingly formalized systems for demonstrating and recognizing death proximity signals.
 
 ### 2.3 The Roman Formalization
@@ -162,6 +164,8 @@ This pattern is supported by evidence across diverse domains:
 | Celebrity Couples (Forbes Top 100) | 52 | 65% | 35% | p < 0.01 |
 | General Population Control | 1,000 | 49% | 51% | - |
 
+*Table: First Child Gender Distribution Among Elite Populations*
+
 The female first child preference can be explained through two evolutionary mechanisms:
 
 1. **Competition Avoidance**: Daughters do not compete directly with fathers for reproductive status
@@ -247,6 +251,8 @@ This occurs when:
 | Mars Inc. | $42.0B | Father → Daughter | Equal to brothers |
 | Fidelity Investments | $14.5B | Father → Daughter | Despite male relatives |
 | Heineken | $16.7B | Father → Daughter | Only child |
+
+*Table: Major Wealth Transfers to Daughters*
 
 This pattern represents optimization of family status perpetuation rather than individual reproductive success.
 

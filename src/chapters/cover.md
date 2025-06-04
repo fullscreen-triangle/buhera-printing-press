@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hegel in Ski Mask](../../hegel.png)
+![Hegel in Ski Mask](../hegel.png)
 
 <h1 style="margin-top: 40px; font-size: 2.5em; font-weight: bold;">So happens that in Berlin, a man gave birth to himself</h1>
 

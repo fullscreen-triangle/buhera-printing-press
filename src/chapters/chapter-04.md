@@ -59,6 +59,8 @@ Where:
 | Specific Voyager encoding schemes | Institutional knowledge | 60-90 years | 300-450 years |
 | Integration of all components | Requires specialist knowledge | 50-70 years | 250-350 years |
 
+*Table: Voyager Golden Record Readability Decay Analysis*
+
 ### 3.2 The Collaborative Knowledge Requirement
 
 The Voyager paradox extends beyond individual technological decay to encompass a more fundamental problem: the disk represents an **accumulation of collaborative human knowledge** that cannot be decoded by any single individual, regardless of their capabilities.
@@ -99,6 +101,8 @@ The combined analysis reveals a profound temporal mismatch:
 | Voyager's closest stellar approach | ~40,000 years | 20-40× |
 | Physical record survival | ~billions of years | >1,000,000× |
 | Probability of extraterrestrial discovery | Infinitesimal | N/A |
+
+*Table: Temporal Mismatch Analysis*
 
 This creates what we term the "Voyager paradox"—our most ambitious attempt at eternal communication will become unreadable to its creators long before it could fulfill its intended purpose. The knowledge required to read our message to the stars is far more fragile than the physical medium carrying it.
 

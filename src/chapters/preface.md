@@ -42,6 +42,6 @@ Read with the knowledge that the authors are desperately hoping you will succeed
 
 <div align="center">
 
-![Chigure](../../chigure-raw.gif)
+![Chigure](../chigure-raw.gif)
 
 </div> 
