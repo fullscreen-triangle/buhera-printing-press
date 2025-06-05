@@ -12,7 +12,7 @@
 - [Chapter 2](./chapters/chapter-02.md)
 - [Chapter 3](./chapters/chapter-03.md)
 - [Chapter 4](./chapters/chapter-04.md)
-- [Chapter 5](./chapters/chapter05.md)
+- [Chapter 5](chapters/chapter-05.md)
 
 # Part Two: Human Development and Social Systems
 
