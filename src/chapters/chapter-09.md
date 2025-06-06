@@ -2,18 +2,16 @@
 
 ## Fundamental Distinctions in Communication
 
-::: {#tab:communication-comparison}
-  Feature             Animal Signals     Human Language
-  ------------------- ------------------ ---------------------------------
-  Purpose             Immediate action   Multiple (including non-action)
-  Temporality         Present only       Past, present, future
-  Abstraction         None               Multiple levels
-  Self-reference      Absent             Present ("I", "me", "my")
-  Hypotheticals       Impossible         Common
-  Metacommunication   None               Extensive
+| Feature | Animal Signals | Human Language |
+|---------|----------------|----------------|
+| Purpose | Immediate action | Multiple (including non-action) |
+| Temporality | Present only | Past, present, future |
+| Abstraction | None | Multiple levels |
+| Self-reference | Absent | Present ("I", "me", "my") |
+| Hypotheticals | Impossible | Common |
+| Metacommunication | None | Extensive |
 
-  : Animal Signals vs. Human Language
-:::
+*Table: Animal Signals vs. Human Language*
 
 ## Signal Analysis in Animal Communication
 
@@ -69,17 +67,15 @@
 
 ## Consciousness and Language Interface
 
-::: {#tab:consciousness-components}
-  Component            Example
-  -------------------- -------------------------
-  Self-reference       "I believe"...
-  Theory of mind       "She thinks that"...
-  Time awareness       "I will do"...
-  Abstract reasoning   "If A then B"
-  Meta-cognition       "I know that I know"
+| Component | Example |
+|-----------|---------|
+| Self-reference | "I believe"... |
+| Theory of mind | "She thinks that"... |
+| Time awareness | "I will do"... |
+| Abstract reasoning | "If A then B" |
+| Meta-cognition | "I know that I know" |
 
-  : Components of Self-Aware Communication
-:::
+*Table: Components of Self-Aware Communication*
 
 ## Evolutionary Implications
 
@@ -107,17 +103,15 @@
 
 ## Comparative Communication Analysis
 
-::: {#tab:communication-complexity}
-  Species          Signal Types        Abstraction Level   Purpose
-  ---------------- ------------------- ------------------- -----------------
-  Meerkats         12 distinct calls   None                Action-only
-  Vervet monkeys   6 warning calls     None                Action-only
-  Dolphins         40+ signals         Limited             Action/Location
-  Chimpanzees      66 gestures         Minimal             Immediate needs
-  Humans           100,000+ words      Unlimited           Multiple
+| Species | Signal Types | Abstraction Level | Purpose |
+|---------|--------------|-------------------|---------|
+| Meerkats | 12 distinct calls | None | Action-only |
+| Vervet monkeys | 6 warning calls | None | Action-only |
+| Dolphins | 40+ signals | Limited | Action/Location |
+| Chimpanzees | 66 gestures | Minimal | Immediate needs |
+| Humans | 100,000+ words | Unlimited | Multiple |
 
-  : Communication System Complexity
-:::
+*Table: Communication System Complexity*
 
 ## Non-Action Communication Examples
 
@@ -184,17 +178,15 @@ For a hominid group with 10km² daily range: $$P(E) \approx 0.99$$ (near certain
 
 ## Fire Use Paradox
 
-::: {#tab:fire-strategy}
-  Strategy           Apparent Benefit      Hidden Cost
-  ------------------ --------------------- ------------------------------------
-  No Fire            No resource waste     High predation risk
-  Hidden Fire        Protection            Limited benefit/High effort
-  Open Fire          Predator deterrence   Location broadcast via light/smell
-  Wooden Structure   Better protection     Resource efficient
-  Burning Weapon     Light source          Reduced effectiveness
+| Strategy | Apparent Benefit | Hidden Cost |
+|----------|------------------|-------------|
+| No Fire | No resource waste | High predation risk |
+| Hidden Fire | Protection | Limited benefit/High effort |
+| Open Fire | Predator deterrence | Location broadcast via light/smell |
+| Wooden Structure | Better protection | Resource efficient |
+| Burning Weapon | Light source | Reduced effectiveness |
 
-  : Fire Use Strategic Analysis
-:::
+*Table: Fire Use Strategic Analysis*
 
 ## The Irrational Preference for Fire
 
@@ -256,16 +248,14 @@ The human relationship with fire demonstrates a profound paradox in evolutionary
 
 ## Posture Time Distribution
 
-::: {#tab:posture-time}
-  Posture                    Hours/Day   Percentage
-  -------------------------- ----------- ------------
-  Bipedal Sleep              7-9         29-37.5%
-  Bipedal Standing/Walking   6-8         25-33%
-  Sitting                    4-6         16-25%
-  Other                      1-3         4-12.5%
+| Posture | Hours/Day | Percentage |
+|---------|-----------|------------|
+| Bipedal Sleep | 7-9 | 29-37.5% |
+| Bipedal Standing/Walking | 6-8 | 25-33% |
+| Sitting | 4-6 | 16-25% |
+| Other | 1-3 | 4-12.5% |
 
-  : Daily Posture Distribution (24-hour cycle)
-:::
+*Table: Daily Posture Distribution (24-hour cycle)*
 
 ## Ground Sleep Benefits
 
@@ -372,16 +362,14 @@ Where A = area coverage factor
 
 ## Neurological Evidence
 
-::: {#tab:sleep-comparison}
-  Species         REM %   Muscle Tension   Sleep Efficiency
-  --------------- ------- ---------------- ------------------
-  Humans          25%     0%               90-95%
-  Chimps          15%     15-20%           70-75%
-  Baboons         12%     25-30%           60-65%
-  Other Mammals   8-10%   30-40%           50-60%
+| Species | REM % | Muscle Tension | Sleep Efficiency |
+|---------|-------|----------------|------------------|
+| Humans | 25% | 0% | 90-95% |
+| Chimps | 15% | 15-20% | 70-75% |
+| Baboons | 12% | 25-30% | 60-65% |
+| Other Mammals | 8-10% | 30-40% | 50-60% |
 
-  : Sleep Quality Comparisons
-:::
+*Table: Sleep Quality Comparisons*
 
 ## Spinal Alignment and Energy Conservation
 
@@ -445,15 +433,13 @@ Given:
 
 ## Comparative Predation Risk Analysis
 
-::: {#tab:predation-risk}
-  Defense Strategy   Effectiveness   Energy Cost
-  ------------------ --------------- -------------
-  Tree Sleeping      80%             High
-  Ground/Fire        95%             Low
-  Group Vigilance    70%             Very High
+| Defense Strategy | Effectiveness | Energy Cost |
+|------------------|---------------|-------------|
+| Tree Sleeping | 80% | High |
+| Ground/Fire | 95% | Low |
+| Group Vigilance | 70% | Very High |
 
-  : Predation Risk Factors
-:::
+*Table: Predation Risk Factors*
 
 ## Fire Management Evidence
 
@@ -479,16 +465,14 @@ Given:
 
 ## Evolutionary Timeline Correlation
 
-::: {#tab:evolution-timeline}
-  Period (MYA)   Event                 Evidence/Significance
-  -------------- --------------------- ----------------------------------------------
-  8-6            C4 plant expansion    Created conditions for regular natural fires
-  6-4            Initial bipedalism    Coincides with first fire evidence
-  4-2            Fire evidence         Regular hearth sites appear
-  2-1            Brain size increase   Correlates with cooking evidence
+| Period (MYA) | Event | Evidence/Significance |
+|--------------|-------|-----------------------|
+| 8-6 | C4 plant expansion | Created conditions for regular natural fires |
+| 6-4 | Initial bipedalism | Coincides with first fire evidence |
+| 4-2 | Fire evidence | Regular hearth sites appear |
+| 2-1 | Brain size increase | Correlates with cooking evidence |
 
-  : Evolutionary Markers and Their Significance
-:::
+*Table: Evolutionary Markers and Their Significance*
 
 ## Physiological Adaptations
 
