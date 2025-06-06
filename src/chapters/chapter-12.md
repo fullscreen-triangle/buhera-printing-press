@@ -210,9 +210,37 @@ The female first child preference can be explained through two evolutionary mech
 
 This pattern represents a sophisticated evolutionary strategy optimizing for status maintenance rather than status competition.
 
-### 4.3 The Complementary "Sexy Son" Strategy
+### 4.3 The Dual Origins of Male Attractiveness
 
-Our framework predicts that attractive females optimize for male first offspring, creating a complementary pattern:
+Before examining the "Sexy Son" strategy, we must understand why male attractiveness is relatively rare compared to female attractiveness. Our framework reveals **two distinct evolutionary forces** that shaped male attractiveness:
+
+**1. Envoy Specialization Theory:**
+Male attractiveness evolved primarily for **cross-group diplomacy** rather than general reproductive success. When strangers approached fire circles, the first contact scenario required individuals who could trigger positive assumptions and reduce threat perception.
+
+**The Envoy Selection Mechanism:**
+- **Handsome males flood strangers' brains with positive assumptions**
+- **This creates openings for peaceful information gathering**
+- **Only specialized roles (envoys, ambassadors, traders) required this trait**
+- **Most males succeeded through within-group cooperation, not stranger appeal**
+
+**Mathematical Model of Envoy Value:**
+
+$$V_{envoy} = P_{positive\_assumption} \times S_{successful\_negotiation} \times B_{group\_benefit}$$
+
+Where attractiveness directly correlates with $P_{positive\_assumption}$, but this advantage only applies to the small percentage of males who regularly encountered strangers.
+
+**2. Why Male Attractiveness Remains Rare:**
+Unlike female attractiveness (which benefits all reproductive encounters), male attractiveness was **context-specific**:
+- **Within-group cooperation** favored broad tolerance, not selectivity
+- **Most male success** came from group hunting/warfare efficiency
+- **Attractive males** were specialized for rare cross-group encounters
+- **Selection pressure** was narrow and intermittent
+
+This explains the **asymmetric distribution**: approximately 60% of males find each other attractive (broad tolerance for cooperation), while female attraction to males is highly selective (specialized for detecting genuine envoy/leadership signals).
+
+### 4.4 The Complementary "Sexy Son" Strategy
+
+Building on this understanding, our framework predicts that attractive females optimize for male first offspring, creating a complementary pattern:
 
 $$P(M_1|A_f) > P(M_1|\neg A_f)$$
 
