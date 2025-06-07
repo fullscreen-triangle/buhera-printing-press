@@ -70,16 +70,14 @@ fails by excluding:
 
 -   Those who will inherit policy consequences
 
-::: {#tab:democratic-exclusion}
-  Group                       Current Status       Impact of Decisions
-  --------------------------- -------------------- ---------------------
-  Children                    No vote              High impact
-  Future generations          No representation    Maximum impact
-  Recently deceased estates   No voice             Ongoing impact
-  Mentally impaired           Variable exclusion   Full impact
+| Group | Current Status | Impact of Decisions |
+|-------|----------------|---------------------|
+| Children | No vote | High impact |
+| Future generations | No representation | Maximum impact |
+| Recently deceased estates | No voice | Ongoing impact |
+| Mentally impaired | Variable exclusion | Full impact |
 
-  : Democratic Exclusion Analysis
-:::
+*Table: Democratic Exclusion Analysis*
 
 ## The Maturity Paradox
 
@@ -178,16 +176,14 @@ Where:
 
 -   $I_i$ = Interest alignment factor
 
-::: {#tab:interest-alignment}
-  Interest Type                 Power Preservation   Public Benefit
-  ----------------------------- -------------------- ----------------
-  Short-term popular policies   High                 Variable
-  Long-term investments         Low                  High
-  Special interest favors       High                 Low
-  Structural reforms            Low                  High
+| Interest Type | Power Preservation | Public Benefit |
+|---------------|-------------------|----------------|
+| Short-term popular policies | High | Variable |
+| Long-term investments | Low | High |
+| Special interest favors | High | Low |
+| Structural reforms | Low | High |
 
-  : Political Interest Alignment Matrix
-:::
+*Table: Political Interest Alignment Matrix*
 
 ## The Representation Paradox
 
@@ -254,16 +250,14 @@ Where:
 
 -   $N(total)$ = Total population
 
-::: {#tab:system-comparison}
-  Feature                       Democracy   Oligarchy
-  ----------------------------- ----------- -----------
-  Power maintenance mechanism   Identical   Identical
-  Critical support base         Large       Small
-  Resource distribution         Broad       Narrow
-  System stability              Lower       Higher
+| Feature | Democracy | Oligarchy |
+|---------|-----------|-----------|
+| Power maintenance mechanism | Identical | Identical |
+| Critical support base | Large | Small |
+| Resource distribution | Broad | Narrow |
+| System stability | Lower | Higher |
 
-  : System Comparison Matrix
-:::
+*Table: System Comparison Matrix*
 
 ## Resource Distribution Analysis
 
@@ -350,16 +344,14 @@ $\beta \approx 0.5$
 
 ## Historical Examples
 
-::: {#tab:historical-systems}
-  System               Era           Selectorate Size   Outcome
-  -------------------- ------------- ------------------ ------------------
-  Athenian Democracy   508-322 BCE   30,000             High innovation
-  Roman Republic       509-27 BCE    50,000             Military success
-  Venetian Republic    697-1797 CE   2,000              Trade dominance
-  British Monarchy     1066-1688     200                Limited growth
+| System | Era | Selectorate Size | Outcome |
+|--------|-----|------------------|---------|
+| Athenian Democracy | 508-322 BCE | 30,000 | High innovation |
+| Roman Republic | 509-27 BCE | 50,000 | Military success |
+| Venetian Republic | 697-1797 CE | 2,000 | Trade dominance |
+| British Monarchy | 1066-1688 | 200 | Limited growth |
 
-  : Historical System Comparisons
-:::
+*Table: Historical System Comparisons*
 
 # Efficiency Comparison Analysis
 
@@ -448,16 +440,14 @@ Where:
 
 ## Efficiency Metrics
 
-::: {#tab:system-performance}
-  Metric                  Democracy   Oligarchy   Circle Graph
-  ----------------------- ----------- ----------- --------------
-  Decision Speed          Low         High        Adaptive
-  Resource Efficiency     Medium      High        High
-  Distribution Fairness   High        Low         High
-  Innovation Rate         High        Medium      High
+| Metric | Democracy | Oligarchy | Circle Graph |
+|--------|-----------|-----------|--------------|
+| Decision Speed | Low | High | Adaptive |
+| Resource Efficiency | Medium | High | High |
+| Distribution Fairness | High | Low | High |
+| Innovation Rate | High | Medium | High |
 
-  : System Performance Comparison
-:::
+*Table: System Performance Comparison*
 
 ## Implementation Considerations
 
@@ -614,18 +604,16 @@ Cultural and social requirements:
 
 Detailed comparison across system types:
 
-::: {#tab:extended-comparison}
-  Metric                Democracy   Oligarchy   Circle Graph
-  --------------------- ----------- ----------- --------------
-  Decision Speed        0.3         0.8         0.7
-  Resource Efficiency   0.5         0.7         0.8
-  Innovation Rate       0.7         0.4         0.8
-  Stability             0.6         0.8         0.7
-  Distribution          0.8         0.3         0.7
-  Adaptability          0.4         0.6         0.9
+| Metric | Democracy | Oligarchy | Circle Graph |
+|--------|-----------|-----------|--------------|
+| Decision Speed | 0.3 | 0.8 | 0.7 |
+| Resource Efficiency | 0.5 | 0.7 | 0.8 |
+| Innovation Rate | 0.7 | 0.4 | 0.8 |
+| Stability | 0.6 | 0.8 | 0.7 |
+| Distribution | 0.8 | 0.3 | 0.7 |
+| Adaptability | 0.4 | 0.6 | 0.9 |
 
-  : Extended System Comparison
-:::
+*Table: Extended System Comparison*
 
 ## Cost-Benefit Analysis
 
@@ -1022,13 +1010,11 @@ The Circle Graph system embodies these principles:
 
 Requirements for planetary civilization:
 
-::: {#tab:civilization-transition}
-  Requirement            Circle Graph Implementation
-  ---------------------- --------------------------------
-  Universal Framework    Single geometric principle
-  Resource Management    Integrated distribution system
-  Decision Making        Unified process model
-  Cultural Integration   Natural social alignment
+| Requirement | Circle Graph Implementation |
+|-------------|----------------------------|
+| Universal Framework | Single geometric principle |
+| Resource Management | Integrated distribution system |
+| Decision Making | Unified process model |
+| Cultural Integration | Natural social alignment |
 
-  : Civilization Transition Requirements
-:::
+*Table: Civilization Transition Requirements*

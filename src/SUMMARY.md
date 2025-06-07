@@ -50,6 +50,7 @@
 # Special Chapters
 
 - [Chapter 27 - The Fabled Experience](./chapters/chapter-27.md) *(Epistemological Framework Edition)*
+- [Chapter 28 - The Living Mathematics](./chapters/chapter-28.md) *(Embodied Equations)*
 
 ---
 

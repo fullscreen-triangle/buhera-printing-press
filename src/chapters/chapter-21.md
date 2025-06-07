@@ -18,7 +18,7 @@ Current research suggests elite athletes achieve glycolytic flux rates of approx
 
 The rate equation for phosphofructokinase (PFK), the key regulatory enzyme:
 
-$$v = \frac{V_{\text{max}}[F6P][ATP]}{K_{\text{F6P}} K_{\text{ATP}}(1 + \frac{[ATP]}{K_{\text{ATP}}}) + K_{\text{ATP}}[F6P] + K_{\text{F6P}}[ATP] + [F6P][ATP]}$$
+$$v = \frac{V_{\text{max}}[F6P][ATP]}{K_{\text{F6P}} K_{\text{ATP}} + \frac{[ATP]}{K_{\text{ATP}}}) + K_{\text{ATP}}[F6P] + K_{\text{F6P}}[ATP] + [F6P][ATP]}$$
 
 For an elite sprinter with 25 kg of active muscle mass operating at theoretical maximum efficiency:
 
