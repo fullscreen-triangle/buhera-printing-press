@@ -1,4 +1,4 @@
-# Chapter 9: Fire-Centered Language Evolution and Cognitive Architecture - The Thermodynamic Origins of Human Consciousness
+# Chapter 9: Fire-Centered Language Evolution and Cognitive Architecture 
 
 ## Abstract
 
